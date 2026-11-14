@@ -1,0 +1,23 @@
+{
+  "name": "nutrition-diet-tracker-mern",
+  "version": "1.0.0",
+  "description": "Simple, clean, and responsive Nutrition & Diet Tracker using MongoDB, Express.js, React.js, and Node.js (MERN)",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "nutrition-tracker",
+    "diet-tracker",
+    "barcode-scanner"
+  ],
+  "author": "dasariprasanthkumar2006",
+  "license": "MIT"
+}
